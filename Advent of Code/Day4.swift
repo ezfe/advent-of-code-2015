@@ -29,29 +29,26 @@ extension String  {
 }
 
 func day4(input: String, _ part: Part) -> Int {
-    var i = 7000000
+    var i = 0
+    let count: Int
+    if part == Part.First {
+        count = 5
+    } else {
+        count = 6
+    }
     while true {
         let res = "\(input)\(i)".md5
         var start = res.startIndex;
-        if res[start] == "0" {
-            start = start.advancedBy(1)
-            if res[start] == "0" {
-                start = start.advancedBy(1)
-                if res[start] == "0" {
-                    start = start.advancedBy(1)
-                    if res[start] == "0" {
-                        start = start.advancedBy(1)
-                        if res[start] == "0" {
-                            start = start.advancedBy(1)
-                            if part == Part.First {
-                                return i
-                            } else if res[start] == "0" {
-                                return i
-                            }
-                        }
-                    }
-                }
+        var fail = false
+        for _ in 0...(count - 1) {
+            if res[start] != "0" {
+                fail = true
+                break
             }
+            start = start.advancedBy(1)
+        }
+        if !fail {
+            return i
         }
         i += 1
     }
