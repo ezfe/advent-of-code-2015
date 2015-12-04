@@ -30,24 +30,14 @@ extension String  {
 
 func day4(input: String, _ part: Part) -> Int {
     var i = 0
-    let count: Int
+    let prefix: String
     if part == Part.First {
-        count = 5
+        prefix = "00000"
     } else {
-        count = 6
+        prefix = "000000"
     }
     while true {
-        let res = "\(input)\(i)".md5
-        var start = res.startIndex;
-        var fail = false
-        for _ in 0...(count - 1) {
-            if res[start] != "0" {
-                fail = true
-                break
-            }
-            start = start.advancedBy(1)
-        }
-        if !fail {
+        if "\(input)\(i)".md5.hasPrefix(prefix) {
             return i
         }
         i += 1
