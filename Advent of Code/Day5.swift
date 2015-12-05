@@ -46,6 +46,9 @@ func day5(input: String, _ part: Part) -> Int {
             if !failsSecond && foundRepeat && vowels >= 3 {
                 sum += 1
             }
+        /*=====================================*/
+        /* This is where it switches to Part 2 */
+        /*=====================================*/
         } else {
             let string = String(str)
             var firstChallenge = false
