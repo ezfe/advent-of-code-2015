@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		661B0F011C12A6BF001E2E35 /* Day5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661B0F001C12A6BF001E2E35 /* Day5.swift */; };
 		665251B21C10FA67001D51E4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251B11C10FA67001D51E4 /* main.swift */; };
 		665251B91C10FA97001D51E4 /* Day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251B81C10FA97001D51E4 /* Day1.swift */; };
 		665251BD1C10FE00001D51E4 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251BC1C10FE00001D51E4 /* Day2.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		661B0F001C12A6BF001E2E35 /* Day5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day5.swift; sourceTree = "<group>"; };
 		665251AE1C10FA67001D51E4 /* Advent of Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent of Code"; sourceTree = BUILT_PRODUCTS_DIR; };
 		665251B11C10FA67001D51E4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		665251B81C10FA97001D51E4 /* Day1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
@@ -34,6 +36,7 @@
 		665251BE1C11044A001D51E4 /* Day3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3.swift; sourceTree = "<group>"; };
 		667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Advent of Code-Bridging-Header.h"; sourceTree = "<group>"; };
 		667EEE041C11C5AD00599D08 /* Day4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4.swift; sourceTree = "<group>"; };
+		66CC87631C12A8FC008ACB30 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MyPlayground.playground; path = ../../../Desktop/MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +74,8 @@
 				665251BC1C10FE00001D51E4 /* Day2.swift */,
 				665251BE1C11044A001D51E4 /* Day3.swift */,
 				667EEE041C11C5AD00599D08 /* Day4.swift */,
+				661B0F001C12A6BF001E2E35 /* Day5.swift */,
+				66CC87631C12A8FC008ACB30 /* MyPlayground.playground */,
 				667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */,
 			);
 			path = "Advent of Code";
@@ -137,6 +142,7 @@
 				667EEE051C11C5AD00599D08 /* Day4.swift in Sources */,
 				665251BF1C11044A001D51E4 /* Day3.swift in Sources */,
 				665251BD1C10FE00001D51E4 /* Day2.swift in Sources */,
+				661B0F011C12A6BF001E2E35 /* Day5.swift in Sources */,
 				665251B21C10FA67001D51E4 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

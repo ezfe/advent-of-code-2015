@@ -1,4 +1,4 @@
-//
+"Hey"//
 //  main.swift
 //  Advent of Code
 //
@@ -21,7 +21,9 @@ if Process.arguments.count < 4 || Process.arguments.count >= 5 {
 
 let input = try! NSString(contentsOfFile: Process.arguments[3], encoding: NSUTF8StringEncoding) as String
 
-print(day4(input, Part.First))
+print(day5(input, Part.Second))
+
+//print(day3(input, Part.First))
 
 //let p = Part(rawValue: Int(Process.arguments[2])!)!
 //

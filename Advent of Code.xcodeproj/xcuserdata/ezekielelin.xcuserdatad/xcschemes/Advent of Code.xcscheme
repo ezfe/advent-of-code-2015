@@ -71,7 +71,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "&quot;/Users/ezekielelin/Advent of Code/input.txt&quot;"
+            argument = "&quot;/Users/ezekielelin/Developer/Advent of Code/input.txt&quot;"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
