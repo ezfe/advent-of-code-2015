@@ -13,6 +13,8 @@
 		665251BD1C10FE00001D51E4 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251BC1C10FE00001D51E4 /* Day2.swift */; };
 		665251BF1C11044A001D51E4 /* Day3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251BE1C11044A001D51E4 /* Day3.swift */; };
 		667EEE051C11C5AD00599D08 /* Day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667EEE041C11C5AD00599D08 /* Day4.swift */; };
+		6687F49E1C15E2F9007563FB /* Day7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6687F49D1C15E2F9007563FB /* Day7.swift */; };
+		6687F4A01C15E3A9007563FB /* SwiftRegex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6687F49F1C15E3A9007563FB /* SwiftRegex.swift */; };
 		66FB8DD11C13F7FF005B4459 /* Day6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66FB8DD01C13F7FF005B4459 /* Day6.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +39,8 @@
 		665251BE1C11044A001D51E4 /* Day3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3.swift; sourceTree = "<group>"; };
 		667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Advent of Code-Bridging-Header.h"; sourceTree = "<group>"; };
 		667EEE041C11C5AD00599D08 /* Day4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4.swift; sourceTree = "<group>"; };
+		6687F49D1C15E2F9007563FB /* Day7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day7.swift; sourceTree = "<group>"; };
+		6687F49F1C15E3A9007563FB /* SwiftRegex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftRegex.swift; sourceTree = "<group>"; };
 		66FB8DD01C13F7FF005B4459 /* Day6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,6 +81,8 @@
 				667EEE041C11C5AD00599D08 /* Day4.swift */,
 				661B0F001C12A6BF001E2E35 /* Day5.swift */,
 				66FB8DD01C13F7FF005B4459 /* Day6.swift */,
+				6687F49D1C15E2F9007563FB /* Day7.swift */,
+				6687F49F1C15E3A9007563FB /* SwiftRegex.swift */,
 				667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */,
 			);
 			path = "Advent of Code";
@@ -141,6 +147,8 @@
 			files = (
 				665251B91C10FA97001D51E4 /* Day1.swift in Sources */,
 				667EEE051C11C5AD00599D08 /* Day4.swift in Sources */,
+				6687F4A01C15E3A9007563FB /* SwiftRegex.swift in Sources */,
+				6687F49E1C15E2F9007563FB /* Day7.swift in Sources */,
 				665251BF1C11044A001D51E4 /* Day3.swift in Sources */,
 				665251BD1C10FE00001D51E4 /* Day2.swift in Sources */,
 				661B0F011C12A6BF001E2E35 /* Day5.swift in Sources */,
