@@ -1,4 +1,4 @@
-"Hey"//
+//
 //  main.swift
 //  Advent of Code
 //
