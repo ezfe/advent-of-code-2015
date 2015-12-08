@@ -21,7 +21,7 @@ if Process.arguments.count < 4 || Process.arguments.count >= 5 {
 
 let input = try! NSString(contentsOfFile: Process.arguments[3], encoding: NSUTF8StringEncoding) as String
 
-print(day7(input, Part.Second))
+print(day8(input, Part.First))
 
 //print(day3(input, Part.First))
 

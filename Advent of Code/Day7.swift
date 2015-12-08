@@ -110,6 +110,4 @@ func day7(input: String, _ part: Part) -> Int {
         cache["b"] = b
         return getWire("a")
     }
-    
-    return -1
 }
