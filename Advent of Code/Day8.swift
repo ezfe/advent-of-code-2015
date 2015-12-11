@@ -13,4 +13,5 @@ func day8(input: String, _ part: Part) -> Int {
     //This challenge stumped me. There's a swift solution here:
     //https://www.reddit.com/r/adventofcode/comments/3vw32y/day_8_solutions/cxr89yz
     
+    return -1
 }
