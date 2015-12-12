@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		661B0F011C12A6BF001E2E35 /* Day5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 661B0F001C12A6BF001E2E35 /* Day5.swift */; };
+		664084BA1C1C66DF004AB51B /* Day12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664084B91C1C66DF004AB51B /* Day12.swift */; };
+		664084BC1C1C673A004AB51B /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664084BB1C1C673A004AB51B /* SwiftyJSON.swift */; };
 		665251B21C10FA67001D51E4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251B11C10FA67001D51E4 /* main.swift */; };
 		665251B91C10FA97001D51E4 /* Day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251B81C10FA97001D51E4 /* Day1.swift */; };
 		665251BD1C10FE00001D51E4 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665251BC1C10FE00001D51E4 /* Day2.swift */; };
@@ -36,6 +38,8 @@
 
 /* Begin PBXFileReference section */
 		661B0F001C12A6BF001E2E35 /* Day5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day5.swift; sourceTree = "<group>"; };
+		664084B91C1C66DF004AB51B /* Day12.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day12.swift; sourceTree = "<group>"; };
+		664084BB1C1C673A004AB51B /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		665251AE1C10FA67001D51E4 /* Advent of Code */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent of Code"; sourceTree = BUILT_PRODUCTS_DIR; };
 		665251B11C10FA67001D51E4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		665251B81C10FA97001D51E4 /* Day1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
@@ -94,6 +98,8 @@
 				66AFB14F1C1868C80086F67B /* Day9.swift */,
 				668501401C19D19B009F2BB9 /* Day10.swift */,
 				66AAB1301C1AFFE40047FB05 /* Day11.swift */,
+				664084B91C1C66DF004AB51B /* Day12.swift */,
+				664084BB1C1C673A004AB51B /* SwiftyJSON.swift */,
 				6687F49F1C15E3A9007563FB /* SwiftRegex.swift */,
 				667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */,
 			);
@@ -160,6 +166,7 @@
 				665251B91C10FA97001D51E4 /* Day1.swift in Sources */,
 				66AAB1311C1AFFE40047FB05 /* Day11.swift in Sources */,
 				66AAE9E41C170DF100F991BD /* Day8.swift in Sources */,
+				664084BC1C1C673A004AB51B /* SwiftyJSON.swift in Sources */,
 				667EEE051C11C5AD00599D08 /* Day4.swift in Sources */,
 				6687F4A01C15E3A9007563FB /* SwiftRegex.swift in Sources */,
 				6687F49E1C15E2F9007563FB /* Day7.swift in Sources */,
@@ -168,6 +175,7 @@
 				66AFB1501C1868C80086F67B /* Day9.swift in Sources */,
 				665251BD1C10FE00001D51E4 /* Day2.swift in Sources */,
 				661B0F011C12A6BF001E2E35 /* Day5.swift in Sources */,
+				664084BA1C1C66DF004AB51B /* Day12.swift in Sources */,
 				66FB8DD11C13F7FF005B4459 /* Day6.swift in Sources */,
 				665251B21C10FA67001D51E4 /* main.swift in Sources */,
 			);
