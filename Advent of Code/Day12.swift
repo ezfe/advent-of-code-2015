@@ -37,8 +37,6 @@ func day12(input: String, _ part: Part) -> Int {
             return sum
         } else if let iob = obj.int {
             return iob
-        } else if let _ = obj.string {
-            return 0
         } else {
             return 0
         }
