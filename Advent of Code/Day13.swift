@@ -13,6 +13,9 @@ func ==(lhs: People, rhs: People) -> Bool {
     return lhs.hashValue == rhs.hashValue
 }
 
+//Shuffle from
+//http://stackoverflow.com/questions/24026510/how-do-i-shuffle-an-array-in-swift
+
 extension CollectionType {
     /// Return a copy of `self` with its elements shuffled
     func shuffle() -> [Generator.Element] {
