@@ -18,6 +18,7 @@
 		668501411C19D19B009F2BB9 /* Day10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668501401C19D19B009F2BB9 /* Day10.swift */; };
 		6687F49E1C15E2F9007563FB /* Day7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6687F49D1C15E2F9007563FB /* Day7.swift */; };
 		6687F4A01C15E3A9007563FB /* SwiftRegex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6687F49F1C15E3A9007563FB /* SwiftRegex.swift */; };
+		668A3C431C1F40130040E5F3 /* Day14.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668A3C421C1F40130040E5F3 /* Day14.swift */; };
 		66AAB1311C1AFFE40047FB05 /* Day11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AAB1301C1AFFE40047FB05 /* Day11.swift */; };
 		66AAE9E41C170DF100F991BD /* Day8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AAE9E31C170DF100F991BD /* Day8.swift */; };
 		66AFB1501C1868C80086F67B /* Day9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AFB14F1C1868C80086F67B /* Day9.swift */; };
@@ -51,6 +52,7 @@
 		668501401C19D19B009F2BB9 /* Day10.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day10.swift; sourceTree = "<group>"; };
 		6687F49D1C15E2F9007563FB /* Day7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day7.swift; sourceTree = "<group>"; };
 		6687F49F1C15E3A9007563FB /* SwiftRegex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftRegex.swift; sourceTree = "<group>"; };
+		668A3C421C1F40130040E5F3 /* Day14.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day14.swift; sourceTree = "<group>"; };
 		66AAB1301C1AFFE40047FB05 /* Day11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day11.swift; sourceTree = "<group>"; };
 		66AAE9E31C170DF100F991BD /* Day8.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day8.swift; sourceTree = "<group>"; };
 		66AFB14F1C1868C80086F67B /* Day9.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day9.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				66AAB1301C1AFFE40047FB05 /* Day11.swift */,
 				664084B91C1C66DF004AB51B /* Day12.swift */,
 				66EF61B41C1D326700082E18 /* Day13.swift */,
+				668A3C421C1F40130040E5F3 /* Day14.swift */,
 				664084BB1C1C673A004AB51B /* SwiftyJSON.swift */,
 				6687F49F1C15E3A9007563FB /* SwiftRegex.swift */,
 				667EEE011C11C58B00599D08 /* Advent of Code-Bridging-Header.h */,
@@ -169,6 +172,7 @@
 				665251B91C10FA97001D51E4 /* Day1.swift in Sources */,
 				66AAB1311C1AFFE40047FB05 /* Day11.swift in Sources */,
 				66AAE9E41C170DF100F991BD /* Day8.swift in Sources */,
+				668A3C431C1F40130040E5F3 /* Day14.swift in Sources */,
 				664084BC1C1C673A004AB51B /* SwiftyJSON.swift in Sources */,
 				667EEE051C11C5AD00599D08 /* Day4.swift in Sources */,
 				6687F4A01C15E3A9007563FB /* SwiftRegex.swift in Sources */,
